@@ -6,42 +6,5 @@
     "gpx": "./gpx/Stand down.gpx",
     "strava": "https://www.strava.com/routes/3296209608492449026",
     "description": "Nice simple route. Run along Higher Lane, turn left onto Ringley Road, turn right along Stand Lane, then turn right on Radcliffe New Road run along until the Goats Gate pub then turn right onto Dales Lane and keep running until you get back to the start."
-  },
-
-  {
-    "id": "threadneedle",
-    "name": "2 - Threading the Needle Reloaded",
-    "distance": 6,
-    "gpx": "./gpx/Threading the needle Reloaded.gpx",
-    "strava": "https://www.strava.com/routes/3283120695811650910",
-    "description": "So cross over the road run around curry house. Left at Egerton, down at Pinfold, up at hamilton down at Church. Go around Goat's gate miss out Church, go down Hamilton, up Pinfold, down Egerton then back to the end."
-  },
-
-  {
-    "id": "prestwichrunaround",
-    "name": "3 - Prestwich run around",
-    "distance": 5.4,
-    "gpx": "./gpx/Prestwich run around.gpx",
-    "strava": "https://www.strava.com/routes/3303382890244843744",
-    "description": "From Aldi, down to the subway and over, through that little cut through which brings us out on to Bury Old Road, 1st right on to Nursey Rd, at the bottom turn left along Heys Rd, past Heys Sch, turn left, up the tiny little hill, cross over the road, straight on to where the shops are, left turn on to Mount Rd, over Sandgate, left on to Thatch Leech Lane, at the top turn right back to Aldi."
-  },
-
-  {
-    "id": "whitefieldhrunaround",
-    "name": "4 - Whitefield Runaround (Fusiliers)",
-    "distance": 5.4,
-    "gpx": "./gpx/Whitefield Runaround.gpx",
-    "strava": "https://www.strava.com/routes/3280932053271122900",
-    "description": "So run up along Higher Lane, crossing when you can find a safe spot before turnning right and coming down Church Ln. Turn left and run towards Bury on the New Road crossing again whenever there is a safe spot. Turn right down Rufford Drive follow this down to the chip shop turn right again along Parr Lane past the gym, turn left and then right onto Albert Road; then follow this along to run across the Fusiliers Meadow if this is closed just go past it and follow the road around. Turn right back onto Thatch Leach Lane, the right onto the Old Road back to the start."
-  },
-
-  {
-    "id": "ringleyo&b",
-    "name": "5 - Whitefield OaB (Ringley)",
-    "distance": 6,
-    "gpx": "./gpx/Whitefield OaB without hills (ish).gpx",
-    "strava": "https://www.strava.com/routes/3278382031438622886",
-    "description": "Ok most OaB around Whitefield require going up and down big hills or busy roads, not this one. So run out of McD to the left follow Higher Lane until you turn left onto Ringley Rd changing to the other side of the road asap. Keep going for 20 minutes and then turn around."
-  }
-  
+  },  
 ]
