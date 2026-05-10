@@ -5,7 +5,16 @@
     "distance": 5.7,
     "gpx": "./gpx/Stand down.gpx",
     "strava": "https://www.strava.com/routes/3296209608492449026",
-    "description": ""
+    "description": "Nice simple route. Run along Higher Lane, turn left onto Ringley Road, turn right along Stand Lane, then turn right on Radcliffe New Road run along until the Goats Gate pub then turn right onto Dales Lane and keep running until you get back to the start."
+  },
+
+  {
+    "id": "threadneedle",
+    "name": "2 - Threading the Needle Reloaded",
+    "distance": 6,
+    "gpx": "./gpx/Threading the needle Reloaded",
+    "strava": "https://www.strava.com/routes/3283120695811650910",
+    "description": "So cross over the road run around curry house. Left at Egerton, down at Pinfold, up at hamilton down at Church. Go around Goat's gate miss out Church, go down Hamilton, up Pinfold, down Egerton then back to the end."
   }
   
 ]
