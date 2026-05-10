@@ -47,10 +47,64 @@
   {
     "id": "buryo&b",
     "name": "6 - Bury OaB",
-    "distance": 6,
+    "distance": 7,
     "gpx": "",
     "strava": "",
-    "description": "Normally here we have a route but tbh this is too simple to need one, run along Bury New Road towards Bury, run for 20 minutes when that happens turn around and come back, just have fun, Luckily Whitefield is really flat so there are no hills to discuss at all...."
+    "description": "Run along Bury New Road towards Bury for 20 mins, turna around and run back."
+  },
+  
+  {
+    "id": "buryo&b",
+    "name": "7 - Manchester OaB",
+    "distance": 7,
+    "gpx": "",
+    "strava": "",
+    "description": "Run along Bury New Road towards Macnchester for 20 mins, turn around and run back."
+  },
+  
+  {
+    "id": "prestwichborbnr",
+    "name": "8 - Prestwich Loop from Bury Old to New",
+    "distance": 5.34,
+    "gpx": "./gpx/Prestwich Loop from Bury Old to New.gpx",
+    "strava": "https://www.strava.com/routes/3272145858129275804",
+    "description": "Run along Bury New Road towards Macnchester for 20 mins, turn around and run back."
+  },
+  
+  {
+    "id": "lepkiloop",
+    "name": "9 - Mairead's Circle",
+    "distance": 5.4,
+    "gpx": "./gpx/Mairead's Circle.gpx",
+    "strava": "https://www.strava.com/routes/3430521518562030356",
+    "description": "Run down Higher Lane, down Dales Lane. Right at the Goats Gate along RnR then turn left onto Bury New Road for a short while before turning right onto Rufford Lane, follow that down until you turn right on Parr Lane, then run until you reach the gym turning right just before and run up to Morrisons, turn left onto Bury New Road and return to start."
+  },
+  
+  {
+    "id": "daleshammer",
+    "name": "10 - Dale's Hammer",
+    "distance": 5.9,
+    "gpx": "./gpx/Dale's Hammer.gpx",
+    "strava": "https://www.strava.com/routes/3465424416764826428",
+    "description": "Run up Higher Lane, Left onto Park Lane. Right at Parkstone Ave and then onto Hillingdon / Sunningdale / Old Hall. Right onto Ringley and left down Dales. Right at Goats Gate up RNR the Right at BNR back to the start."
+  },
+  
+  {
+    "id": "prestwichheatonedge",
+    "name": "11 - Prestwich via Heaton Edge",
+    "distance": 5.6,
+    "gpx": "./gpx/Prestwich via Heaton Edge.gpx",
+    "strava": "https://www.strava.com/routes/3266065942555193682",
+    "description": "So from McD cross over to the left side of Bury Old Road then begin the run turning left on Thatch Leach Lane run until the Frigate pub and turn right own Sandgate Road crossing over the the motorway. Keep running until you reach then take a quick shimmy to the left before turning right onto the road next to the reservoir (St Margarets Road) just follow that around until you reach Bury Old Road again.  Turn left for a little run until you take a right along Heys Road (Tattoo parlour) keep following that all the way down into Prestwich town centre. Cross under the tram and run down fairfax then take a right at M&S keep running to run back under the motorway take the left subway back up and return to McD start point."
+  },
+  
+  {
+    "id": "whitefieldhills",
+    "name": "12 - Whitefield Hills",
+    "distance": 5.2,
+    "gpx": "./gpx/Whitefield Hills.gpx",
+    "strava": "https://www.strava.com/routes/3288502130242278470",
+    "description": "So run along higher lane before turning left through a ginnel to Ringley Chase, run around posh fountain, then back to run right onto Ringley Drive then left onto Ringley Road, then right again down Stand Lane. Turn Right onto Hollinhurst Road to cut the corner. then right on Radcliffe New Road for a little, teeny, tiny uphill bit. Turn right again at the goats gate to run along Dales Lane, Higher Lane to return."
   }
   
 ]
