@@ -1,0 +1,11 @@
+[
+  {
+    "id": "standdown",
+    "name": "1 - Stand Down",
+    "distance": 5.7,
+    "gpx": "./gpx/Stand down.gpx",
+    "strava": "https://www.strava.com/routes/3296209608492449026",
+    "description": ""
+  }
+  
+]
