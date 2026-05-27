@@ -21,14 +21,21 @@
     }
 
     header {
-      padding: 16px;
-      font-size: 20px;
-      font-weight: bold;
-      background: #151924;
-      position: sticky;
-      top: 0;
-    }
+  padding: 12px 16px;
+  background: #151924;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
 
+.header-logo {
+  height: 60px;
+  width: auto;
+  display: block;
+}
     .container {
       padding: 16px;
     }
@@ -97,7 +104,16 @@
 </head>
 <body>
 
-<header>🏃 RTW Winter Routes</header>
+// this code removed <header>🏃 RTW Winter Routes</header> //
+<header>
+  <img
+    src="./images/rtw header.jpg"
+    alt="RunTogether Whitefield"
+    class="header-logo"
+  />
+</header>
+
+  
 
 <div class="container" id="homeView">
   <div class="grid" id="routesGrid"></div>
